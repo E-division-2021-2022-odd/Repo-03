@@ -1,7 +1,1 @@
-echo "# Repo-03" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/E-division-2021-2022-odd/Repo-03.git
-git push -u origin main
+![image](https://user-images.githubusercontent.com/97395685/151655977-66d52ba2-8da5-4a81-865f-545abe8036d0.png)
